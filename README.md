@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🕵️‍♂️ InvestiSec
 
-<!--
-**InvestiSec/InvestiSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Analyst** | DFIR | SIEM & Threat Hunting | Lab Builder
 
-Here are some ideas to get you started:
+Welcome to my professional portfolio. As a cybersecurity analyst, I focus on digital forensics, threat detection, and incident response using real-world labs and hands-on tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Focus
+
+- **SIEM & Detection:** Wazuh, HELK, Suricata, Kibana
+- **Threat Hunting & DFIR:** Volatility, KAPE, Sysmon, Sigma rules
+- **Network Forensics:** Wireshark, Zeek, PCAP analysis
+- **Adversary Emulation:** MITRE ATT&CK, Red/Blue Teaming Labs
+- **Automation:** PowerShell, Bash, Python (basic)
+
+---
+
+## 📜 Certifications
+
+- CompTIA CySA+
+- CompTIA PenTest+
+- Cisco Certified CyberOps Associate
+- CCNA
+
+*(More listed in full CV)*
+
+---
+
+## 🧪 Current Projects & Write-ups
+
+> Write-ups and case studies coming soon.  
+> Topics will include real-world detection scenarios, malware analysis, and threat investigations based on CyberDefenders, Security Datasets, and custom labs.
+
+---
+
+## 📬 Contact & Identity
+
+This GitHub represents my alias **InvestiSec**.  
+If you're a recruiter or collaborator with my CV, you may confirm ownership via this profile link.
+
