@@ -1,6 +1,6 @@
 # InvestiSec – Cybersecurity Portfolio
 
-As a cybersecurity analyst, I architect hands-on labs that showcase forensic investigations, threat detection, and attack simulations. This portfolio reflects real-world skills in DFIR, SIEM engineering, threat hunting, and adversary emulation.
+As a cybersecurity analyst, I design hands-on labs that showcase forensic investigations, threat detection, and attack simulations. This portfolio reflects real-world skills in DFIR, SIEM engineering, threat hunting, and adversary emulation.
 
 ---
 
