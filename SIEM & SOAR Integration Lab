@@ -1,61 +1,29 @@
-# SIEM & SOAR Integration Lab
+# SIEM & SOAR Integration Lab  
 
 ## Objective  
-Build a security monitoring platform that integrates SIEM, SOAR, and threat intelligence to detect and respond to adversary techniques.  
+Build a full-stack security monitoring and response platform to detect adversary activity and automate incident workflows.  
 
 ## Tools & Technologies  
 - Wazuh SIEM  
 - TheHive & Cortex  
-- MISP (threat intelligence)  
+- MISP (Threat Intelligence)  
 - Shuffle SOAR  
 - Sysmon, Suricata, Velociraptor  
 
 ## Setup & Process  
-1. Describe the environment you built (VMs, cloud, tools connected).  
-2. Mention the key steps (integration, configuration, log ingestion, alerting).  
-3. Keep it high-level, not a full tutorial.  
-
-*Example: Installed Wazuh Manager, configured Sysmon agents, integrated Suricata IDS, connected alerts to TheHive, automated enrichment with Cortex, and playbooks with Shuffle.*  
+- Deployed Wazuh Manager and integrated Sysmon and Suricata agents.  
+- Configured Velociraptor for DFIR and endpoint telemetry.  
+- Connected alerts to TheHive for case management.  
+- Automated enrichment with Cortex and playbooks via Shuffle SOAR.  
 
 ## Simulations / Use Cases  
-- Simulated attacks with **Atomic Red Team** (e.g., LSASS dumping, lateral movement).  
-- Mapped detections to **MITRE ATT&CK** techniques.  
-- Validated SIEM and SOAR rules.  
+- Executed Atomic Red Team TTPs (e.g., LSASS dumping, lateral movement).  
+- Mapped detections to MITRE ATT&CK tactics.  
+- Triggered automated workflows for incident triage and enrichment.  
 
 ## Outcomes  
-- Enabled correlation of 5+ log sources for comprehensive incident visibility.  
-- Automated enrichment and response actions through SOAR integration.  
-- Improved detection coverage across multiple ATT&CK tactics.  
+- Unified log ingestion from multiple sources.  
+- Automated enrichment reduced manual investigation effort.  
+- Improved detection coverage for common attack techniques.  
 
 ## Screenshots / Evidence  
-*(Add 2–3 images or diagrams: dashboards, alerts, detection hits, etc.)*  
-
----
-
-# Example: C2 Operations with Mythic  
-
-## Objective  
-Deploy a command-and-control (C2) infrastructure to understand attacker workflows and test defensive visibility.  
-
-## Tools & Technologies  
-- Mythic C2  
-- Cloud server (e.g., Linode, DigitalOcean)  
-- Redirector server  
-- Registered domains with HTTPS  
-
-## Setup & Process  
-- Deployed Mythic C2 server with Docker.  
-- Configured a redirector with Nginx.  
-- Registered and secured custom domains with Let’s Encrypt.  
-
-## Simulations / Use Cases  
-- Hosted phishing domains.  
-- Delivered payloads via redirector.  
-- Observed C2 traffic and tested detection with Suricata/Wazuh.  
-
-## Outcomes  
-- Learned C2 operator workflows (payload creation, listener setup, tasking).  
-- Gained insight into network-based detection opportunities.  
-
----
-
