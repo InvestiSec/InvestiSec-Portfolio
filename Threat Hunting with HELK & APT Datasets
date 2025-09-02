@@ -1,0 +1,26 @@
+# Threat Hunting with HELK & APT Datasets  
+
+## Objective  
+Use HELK to ingest and analyze threat datasets, hunting for artifacts of real-world APT campaigns.  
+
+## Tools & Technologies  
+- HELK (Hunting ELK)  
+- APT datasets (e.g., APT29)  
+- MITRE ATT&CK framework  
+
+## Setup & Process  
+- Installed HELK on lab infrastructure.  
+- Ingested open-source datasets simulating APT activity.  
+- Built detection queries in Kibana.  
+
+## Simulations / Use Cases  
+- Investigated persistence, credential access, and lateral movement techniques.  
+- Mapped findings to MITRE ATT&CK.  
+
+## Outcomes  
+- Improved threat hunting skills by analyzing realistic APT data.  
+- Practiced building queries and dashboards for detection engineering.  
+- Connected attacker artifacts to forensic timelines.  
+
+## Screenshots / Evidence  
+ 
