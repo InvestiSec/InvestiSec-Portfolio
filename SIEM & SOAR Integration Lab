@@ -14,7 +14,7 @@ Build a full-stack security monitoring and response platform to detect adversary
 - Deployed Wazuh Manager and integrated Sysmon and Suricata agents.  
 - Configured Velociraptor for DFIR and endpoint telemetry.  
 - Connected alerts to TheHive for case management.  
-- Automated enrichment with Cortex and playbooks via Shuffle SOAR.  
+- Automated enrichment with Cortex and MISP.  
 
 ## Simulations / Use Cases  
 - Executed Atomic Red Team TTPs (e.g., LSASS dumping, lateral movement).  
@@ -25,5 +25,3 @@ Build a full-stack security monitoring and response platform to detect adversary
 - Unified log ingestion from multiple sources.  
 - Automated enrichment reduced manual investigation effort.  
 - Improved detection coverage for common attack techniques.  
-
-## Screenshots / Evidence  
