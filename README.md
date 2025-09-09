@@ -12,6 +12,7 @@ As a cybersecurity analyst, I design hands-on labs that showcase forensic invest
 | **Adversary Simulation** | Emulated attacker techniques through Atomic Red Team, validated detections and resilient monitoring. [Explore details](./Adversary%20Simulation%20with%20Atomic%20Red%20Team/) |
 | **C2 Operations with Mythic** | Deployed Mythic C2 infrastructure, built redirector, simulated phishing and payload delivery. [Explore details](./C2%20Operations%20with%20Mythic/) |
 | **Threat Hunting with HELK & APT Datasets** | Ingested APT datasets into HELK to drive detection logic and uncover known attacker artifacts. [Explore details](./Threat%20Hunting%20with%20HELK%20%26%20APT%20Datasets/) |
+| **Suricata IDS Integration with Wazuh** | Installed and configured Suricata on Ubuntu, enabled Emerging Threats rules, and forwarded alerts to Wazuh Manager for correlation and visibility. [Explore details](./Suricata-IDS-Wazuh-Integration.md) |
 
 ---
 
