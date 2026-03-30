@@ -1,27 +1,33 @@
-# C2 Operations with Mythic  
+# C2 Operations with Mythic
 
-## Objective  
-Deploy and operate a modern command-and-control (C2) infrastructure to understand attacker workflows and test blue-team detection strategies.  
+## Objective
 
-## Tools & Technologies  
-- Mythic C2  
-- Redirector server (Nginx)  
-- Cloud provider (Linode)  
-- Custom phishing domains with HTTPS  
+Deploy and operate a modern command-and-control (C2) infrastructure to understand attacker workflows and test blue-team detection strategies.
 
-## Setup & Process  
-- Deployed Mythic using Docker on a cloud server.  
-- Configured redirector traffic proxy with Nginx.  
-- Registered domains and applied TLS with Let’s Encrypt.  
-- Hosted payloads and simulated phishing campaigns.  
+## Tools \& Technologies
 
-## Simulations / Use Cases  
-- Payload creation and delivery through redirector.  
-- Tasking compromised endpoints from Mythic.  
-- Observed C2 traffic for detection opportunities.  
+* Mythic C2
+* Redirector server (Nginx)
+* Cloud provider (Linode)
+* Custom phishing domains with HTTPS
 
-## Outcomes  
-- Practical experience with C2 frameworks.  
-- Learned OPSEC techniques (redirectors, domain setup).  
-- Gained insight into network-based C2 detection.  
- 
+## Setup \& Process
+
+* Deployed Mythic using Docker on a cloud server.
+* Configured redirector traffic proxy with Nginx.
+* Registered domains and applied TLS with Let’s Encrypt.
+* Hosted payloads and simulated phishing campaigns.
+
+## Simulations / Use Cases
+
+* Payload creation and delivery through redirector.
+* Tasking compromised endpoints from Mythic.
+* Observed C2 traffic for detection opportunities.
+
+## Outcomes
+
+* Practical experience with C2 frameworks.
+* Learned OPSEC techniques (redirectors, domain setup).
+* Gained insight into network-based C2 detection.
+* Git branch practice update.
+
