@@ -16,6 +16,15 @@ As a cybersecurity analyst, I design hands-on labs that showcase forensic invest
 
 ---
 
+## Practical Training & Learning Paths
+
+| Achievement | Focus | Date |
+|-------------|-------|------|
+| **LetsDefend SOC Analyst Learning Path Certification** | SOC alert triage, investigation workflow, phishing/malware/web attack analysis, endpoint security, and incident response fundamentals. [View details](./LetsDefend-Achievements.md#soc-analyst-learning-path-certification) | Jun 2026 |
+| **LetsDefend SIEM Engineer Career Path Certification** | SIEM operations, log analysis, alert handling, detection-oriented investigation, and security monitoring workflows. [View details](./LetsDefend-Achievements.md#siem-engineer-career-path-certification) | Apr 2026 |
+
+---
+
 ## Core Skills & Tech Stack
 
 - **Detection & DFIR**: Wazuh, HELK, Suricata, Sysmon, Volatility  
@@ -39,4 +48,3 @@ As a cybersecurity analyst, I design hands-on labs that showcase forensic invest
 Known as **InvestiSec**. Browse the labs to see what intrigues you, or connect for a deep dive into my security engineering process.
 
 ---
-
