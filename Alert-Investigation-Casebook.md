@@ -10,7 +10,11 @@ The goal is to show investigation judgment, not to reproduce lab answers or publ
 
 | Case | Focus | Status | Link |
 |---|---|---|---|
-| 001 | Remote Code Execution against Splunk Enterprise | Draft | [Open case](./alert-investigations/001-splunk-rce/README.md) |
+| 001 | Remote Code Execution against Splunk Enterprise | Published | [Open case](./alert-investigations/001-splunk-rce/README.md) |
+| 002 | Famous Chollima fake-recruitment compromise | Published | [Open case](./alert-investigations/002-chollima-endpoint-forensics/README.md) |
+| 003 | RedLine memory forensics | Published | [Open case](./alert-investigations/003-redline-memory-forensics/README.md) |
+| 004 | RevengeHotels multi-stage endpoint compromise | Published | [Open case](./alert-investigations/004-revengehotels-apt/README.md) |
+| 005 | Dragonfly spearphishing attachment analysis | Published | [Open case](./alert-investigations/005-dragonfly-spearphishing/README.md) |
 
 ---
 
@@ -25,4 +29,4 @@ Each case should stay compact and defensible:
 - response actions
 - technical lesson learned
 
-Indicators, hostnames, usernames, and IP addresses are anonymized or replaced with safe example values where needed.
+Indicators are defanged for safe publication. Hostnames, usernames, and paths are anonymized or retained only when they are necessary lab evidence and do not expose a real person or environment.
